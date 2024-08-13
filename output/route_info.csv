@@ -1,0 +1,127 @@
+,id,name,color
+0,1,Bronzeville/Union Station,#336633
+1,2,Hyde Park Express,#993366
+2,3,King Drive,#009900
+3,4,Cottage Grove,#cc3300
+4,X4,Cottage Grove Express,#006666
+5,5,South Shore Night Bus,#996633
+6,6,Jackson Park Express,#ff0066
+7,7,Harrison,#666600
+8,8,Halsted,#ff00ff
+9,8A,South Halsted,#66cc66
+10,9,Ashland,#cc3366
+11,X9,Ashland Express,#33ff00
+12,10,Museum of S & I,#cc66ff
+13,11,Lincoln,#ff6600
+14,12,Roosevelt,#33ccff
+15,J14,Jeffery Jump,#663399
+16,15,Jeffery Local,#ff9999
+17,18,16th/18th,#6699ff
+18,19,United Center Express,#78aa50
+19,20,Madison,#336633
+20,21,Cermak,#009900
+21,22,Clark,#cc3300
+22,24,Wentworth,#9900cc
+23,26,South Shore Express,#006666
+24,28,Stony Island,#996633
+25,29,State,#666600
+26,30,South Chicago,#ff00ff
+27,31,31st,#00ffff
+28,34,South Michigan,#cc3366
+29,35,31st/35th,#33ff00
+30,36,Broadway,#cc66ff
+31,37,Sedgwick,#993366
+32,39,Pershing,#33ccff
+33,43,43rd,#cc9966
+34,44,Wallace-Racine,#ff9999
+35,47,47th,#99cc33
+36,48,South Damen,#6699ff
+37,49,Western,#336633
+38,49B,North Western,#009900
+39,X49,Western Express,#9900cc
+40,50,Damen,#cc3300
+41,51,51st,#006666
+42,52,Kedzie,#996633
+43,52A,South Kedzie,#ff0066
+44,53,Pulaski,#666600
+45,53A,South Pulaski,#ff00ff
+46,54,Cicero,#cc3366
+47,54A,North Cicero/Skokie Blvd.,#33ff00
+48,54B,South Cicero,#cc66ff
+49,55,Garfield,#33ccff
+50,55A,55th/Austin,#cc9966
+51,55N,55th/Narragansett,#ff9999
+52,56,Milwaukee,#6699ff
+53,57,Laramie,#993366
+54,59,59th/61st,#009900
+55,60,Blue Island/26th,#9900cc
+56,62,Archer,#cc3300
+57,62H,Archer/Harlem,#006666
+58,63,63rd,#996633
+59,63W,West 63rd,#ff0066
+60,65,Grand,#ff00ff
+61,66,Chicago,#66cc66
+62,67,67th-69th-71st,#cc3366
+63,68,Northwest Highway,#33ff00
+64,70,Division,#ff6600
+65,71,71st/South Shore,#33ccff
+66,72,North,#cc9966
+67,73,Armitage,#ff9999
+68,74,Fullerton,#99cc33
+69,75,74th-75th,#6699ff
+70,76,Diversey,#336633
+71,77,Belmont,#993366
+72,78,Montrose,#009900
+73,79,79th,#9900cc
+74,80,Irving Park,#cc3300
+75,81,Lawrence,#996633
+76,81W,West Lawrence,#ff0066
+77,82,Kimball-Homan,#666600
+78,84,Peterson,#ff00ff
+79,85,Central,#66cc66
+80,85A,North Central,#cc3366
+81,86,Narragansett/Ridgeland,#33ff00
+82,87,87th,#cc66ff
+83,88,Higgins,#ff6600
+84,90,Harlem,#33ccff
+85,91,Austin,#ff9999
+86,92,Foster,#99cc33
+87,93,California/Dodge,#6699ff
+88,94,California,#336633
+89,95,95th,#00ffff
+90,96,Lunt,#9900cc
+91,97,Skokie,#cc3300
+92,100,Jeffery Manor Express,#996633
+93,103,West 103rd,#ff0066
+94,106,East 103rd,#666600
+95,108,Halsted/95th,#ff00ff
+96,111,111th/King Drive,#66cc66
+97,111A,Pullman Shuttle,#ff3333
+98,112,Vincennes/111th,#cc3366
+99,115,Pullman/115th,#996633
+100,119,Michigan/119th,#33ff00
+101,120,Ogilvie/Streeterville Express,#cc66ff
+102,121,Union/Streeterville Express,#ff6600
+103,124,Navy Pier,#ff9999
+104,125,Water Tower Express,#99cc33
+105,126,Jackson,#6699ff
+106,130,Museum Campus,#ff3333
+107,134,Stockton/LaSalle Express,#009900
+108,135,Clarendon/LaSalle Express,#9900cc
+109,136,Sheridan/LaSalle Express,#cc3300
+110,143,Stockton/Michigan Express,#006666
+111,146,Inner Lake Shore/Michigan Exp.,#666600
+112,147,Outer DuSable Lake Shore Exp.,#ff00ff
+113,148,Clarendon/Michigan Express,#66cc66
+114,151,Sheridan,#cc3366
+115,152,Addison,#33ff00
+116,155,Devon,#cc66ff
+117,156,LaSalle,#ff6600
+118,157,Streeterville/Taylor,#33ccff
+119,165,West 65th,#cc9966
+120,169,69th-UPS Express,#99cc33
+121,171,U. of Chicago/Hyde Park,#336633
+122,172,U. of Chicago/Kenwood,#993366
+123,192,U. of Chicago Hospitals Express,#cc3300
+124,201,Central/Ridge,#996633
+125,206,Evanston Circulator,#666600
