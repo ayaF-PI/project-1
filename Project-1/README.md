@@ -1,4 +1,4 @@
-# project-1
+# jasmine_pinon-project-1
 # Cta analysis
 
 # Intro: This data analysis is meant to compare the amount of people who commute by bus and train in the busy city of Chicago. It also includes an minimum, maximum, and average of each respective ridership data. Furthermore, bar graphs and charts were used to better visualize trends in Cta commutes over the last 10 years. 
